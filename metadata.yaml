@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53048'
     url: http://www.gutenberg.org/2009/agents/53048
     wikipedia: https://en.wikipedia.org/wiki/John_Forte
+covers:
+- cover_type: archival
+  image_path: 73220-h/images/cover.jpg
 creator:
   author:
     agent_name: Hahn, George R.
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '56991'
     url: http://www.gutenberg.org/2009/agents/56991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73220#Gangway-for-Homer
 gutenberg_issued: '2024-03-21'
 gutenberg_type: Text
 identifiers:
